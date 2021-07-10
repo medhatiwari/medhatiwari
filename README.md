@@ -1,6 +1,7 @@
-### Hi there 👋
-
-
+<div align="center">
+  <h3> Hi there 👋</h3>
+  </br>
+  
 ![Medha's GitHub stats](https://github-readme-stats.vercel.app/api?username=medhatiwari&count_private=true&show_icons=true&theme=dracula&&hide_border=true&include_all_commits=true)
 
 
@@ -9,7 +10,7 @@
 ![](https://komarev.com/ghpvc/?username=medhatiwari&color=dd6387&style=plastic)
 
 
-
+</div>
 
 <!--
 **medhatiwari/medhatiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
